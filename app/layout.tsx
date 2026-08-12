@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Terra Node",
-  description: "make me a flappy bird game using nextjs",
+  title: "Flappy Bird",
+  description: "A classic Flappy Bird game built with Next.js",
 };
 
 export default function RootLayout({
